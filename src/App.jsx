@@ -29,7 +29,7 @@ function App() {
       </section>
 
       <section className="section">
-        <h2>Core Skills</h2>
+        <h2>Core Skills </h2>
         <ul>
           <li>Financial Governance</li>
           <li>Budget Planning & Forecasting</li>
